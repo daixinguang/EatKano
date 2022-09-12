@@ -146,7 +146,7 @@ body {
 .t4,
 .t5 {
     background-size: auto 100%;
-    background-image: url(./image/l&d.png);
+    background-image: url(./image/l&d_before_s.png);
 }
 
 .tt1,
@@ -155,7 +155,7 @@ body {
 .tt4,
 .tt5 {
     background-size: auto 86%;
-    background-image: url(./image/l&d_before.png);
+    background-image: url(./image/l&d_s.png);
 }
 
 .bl {
